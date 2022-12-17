@@ -131,6 +131,25 @@ This is a web based application developed for Plants related based website in in
 
 
 
+### Static Web apps  -
+![Screenshot (213)](https://user-images.githubusercontent.com/118352360/208240637-694df098-c197-42ce-8f60-9eb5b8ae38c1.png)
+![Screenshot (214)](https://user-images.githubusercontent.com/118352360/208240642-f87a0fdb-af2d-4c92-babb-d97634c9dd55.png)
+
+
+
+
+
+
+
+
+
+
+
+### Health bot  -
+![Screenshot (215)](https://user-images.githubusercontent.com/118352360/208240646-a87c4684-9f8f-441b-852f-f2f5652eb846.png)
+
+
+
 
 
 
