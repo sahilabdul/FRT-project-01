@@ -143,4 +143,4 @@ This is a web based application developed for Plants related based website in in
 - HTML
 - CSS
 - Bootstrap
-- JavaScript
+
