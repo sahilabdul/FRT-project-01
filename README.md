@@ -5,9 +5,9 @@ This is a web based application developed for Plants related based website in in
 ### This web based Earth (plants) application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - https://agreeable-sky-0f51dd000.2.azurestaticapps.net
+**Project Link** - 
 
-**project demo video link** -  https://youtu.be/40Csqp85hNo
+**project demo video link** -  
 
 ## Azure technologies used for Project
 
